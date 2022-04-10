@@ -1,0 +1,65 @@
+/*public class HW {
+    public static void main(String[] args) {
+        System.out.println(less(2,9));
+    }
+        public static boolean less ( int a, int b){
+            int sum = a + b;
+
+            if (sum >= 10 && sum <= 20) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+
+    }
+*/
+
+
+/*public class HW {
+    public static void main (String[] args){
+        System.out.println(door(10));
+    }
+
+    private static int door(int x) {
+        if (x<0) {
+            System.out.println("Положительное");
+        }
+        else {
+            System.out.println("Отрицательное");
+        }
+
+        return x;
+    }
+
+}
+
+ */
+
+/* public class HW {
+    public static void main (String[] args){
+        System.out.println(Less2(-690234321));
+    }
+
+    private static boolean Less2(int i) {
+        if (i<0) {
+            return true;
+        }
+        return false;
+    }
+    }
+*/
+
+
+/*public class HW {
+    public static void main (String[] args){
+        System.out.println(Less3("privet",7)
+    }
+    private static void Less3(String word,int n) {
+        for (int i=1;i<=n ) {
+            System.out.println();
+        }
+    }
+    }
+    
+ */
